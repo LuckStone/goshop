@@ -1,9 +1,9 @@
 # Go Shop
 
 
-### Á·Ï°GoÓïÑÔ±à³ÌµÄÐ¡ÏîÄ¿
+### ç»ƒä¹ Goè¯­è¨€ç¼–ç¨‹çš„å°é¡¹ç›®
 
-### ´úÂë³õÊ¼»¯²½Öè
+### ä»£ç åˆå§‹åŒ–æ­¥éª¤
 
-1¡¢Ö´ÐÐbee.bat£¬ ÏÂÔØbeego£»
-2¡¢Ö´ÐÐnewproject.bat£¬ ´«½¨ÏîÄ¿
+ * 1ã€æ‰§è¡Œbee.batï¼Œ ä¸‹è½½beegoï¼›
+ * 2ã€æ‰§è¡Œnewproject.batï¼Œ ä¼ å»ºé¡¹ç›®
